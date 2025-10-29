@@ -34,7 +34,7 @@ Other: AWS, Docker, Git, Wordpress, Shopify, Paypal, Vim, Photoshop, XD
 
 
 <a href="https://github.com/funatsuya/github-readme-stats">
-<img align="left" src="https://github-readme-stats-cd7uj5whi-tradeagencys-projects.vercel.app/api?username=funatsuya&count_private=true&theme=slateorange&bg_color=30,c9d6ff,e2e2e2&show_icons=true" alt="TradeAgency's github stats"></a>
+<img align="left" src="https://github-readme-stats-khaki-seven-34.vercel.app/api?username=funatsuya&count_private=true&theme=slateorange&bg_color=30,c9d6ff,e2e2e2&show_icons=true" alt="TradeAgency's github stats"></a>
 
 <a href="https://github.com/funatsuya/github-readme-stats">
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=funatsuya&theme=slateorange&bg_color=30,c9d6ff,e2e2e2&count_private=true" alt="Top Langs">
