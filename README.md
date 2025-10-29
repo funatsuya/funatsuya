@@ -18,15 +18,15 @@
 
 Frontend: HTML, CSS, Bootstrap, JavaScript, Angular, Vue
 
-<img src = 'https://github.com/funatsuya/funatsuya/blob/master/images/html.svg' width='30'/> <img src = 'https://github.com/funatsuya/funatsuya/blob/master/images/css.svg' width='30'/> <img src = 'https://github.com/funatsuya/funatsuya/blob/master/images/bootstrap.svg' width='33'/> <img src = 'https://github.com/funatsuya/funatsuya/blob/master/images/js.svg' width='30'/> <img src = 'https://github.com/funatsuya/funatsuya/blob/master/images/angular.svg' width='28'/> <img src = 'https://github.com/funatsuya/funatsuya/blob/master/images/vue.svg' width='28'/>
+<img src = './images/html.svg' width='30'/> <img src = './images/css.svg' width='30'/> <img src = './images/bootstrap.svg' width='33'/> <img src = './images/js.svg' width='30'/> <img src = './images/angular.svg' width='28'/> <img src = './images/vue.svg' width='28'/>
 
 Backend: PHP, Laravel, C#, .NET, Node.js, Swift, MySQL, SQLServer
 
-<img src = 'https://github.com/funatsuya/funatsuya/blob/master/images/php.svg' width='40'/> <img src = 'https://github.com/funatsuya/funatsuya/blob/master/images/laravel.svg' width='30'/> <img src = 'https://github.com/funatsuya/funatsuya/blob/master/images/csharp.svg' width='30'/> <img src = 'https://github.com/funatsuya/funatsuya/blob/master/images/microsoft-dotnet.svg' width='30'/> <img src = 'https://github.com/funatsuya/funatsuya/blob/master/images/mysql.svg' width='30'/> <img src = 'https://github.com/funatsuya/funatsuya/blob/master/images/node-js.svg' width='30'/> <img src = 'https://github.com/funatsuya/funatsuya/blob/master/images/swift.svg' width='30'/> <img src = 'https://github.com/funatsuya/funatsuya/blob/master/images/sql-server.svg' width='30'/>
+<img src = './images/php.svg' width='40'/> <img src = './images/laravel.svg' width='30'/> <img src = './images/csharp.svg' width='30'/> <img src = './images/microsoft-dotnet.svg' width='30'/> <img src = './images/mysql.svg' width='30'/> <img src = './images/node-js.svg' width='30'/> <img src = './images/swift.svg' width='30'/> <img src = './images/sql-server.svg' width='30'/>
 
 Other: AWS, Docker, Git, Wordpress, Vim, Photoshop, XD
 
-<img src = 'https://github.com/funatsuya/funatsuya/blob/master/images/aws.svg' width='30'/> <img src = 'https://github.com/funatsuya/funatsuya/blob/master/images/docker.svg' width='30'/> <img src = 'https://github.com/funatsuya/funatsuya/blob/master/images/git.svg' width='30'/> <img src = 'https://github.com/funatsuya/funatsuya/blob/master/images/wordpress.svg' width='30'/> <img src = 'https://github.com/funatsuya/funatsuya/blob/master/images/vim.svg' width='30'/> <img src = 'https://github.com/funatsuya/funatsuya/blob/master/images/adobe-photoshop.svg' width='30'/> <img src = 'https://github.com/funatsuya/funatsuya/blob/master/images/adobe-adobe-xd.svg' width='30'/>
+<img src = './images/aws.svg' width='30'/> <img src = './images/docker.svg' width='30'/> <img src = './images/git.svg' width='30'/> <img src = './images/wordpress.svg' width='30'/> <img src = './images/vim.svg' width='30'/> <img src = './images/adobe-photoshop.svg' width='30'/> <img src = './images/adobe-adobe-xd.svg' width='30'/>
 
 <br>
 <br>
