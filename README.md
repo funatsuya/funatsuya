@@ -7,7 +7,7 @@
 
 🦸‍♂️Name: Kei Funatsuya
 
-💻Occupation: Software Developer
+💻Occupation: Fullstack Developer
 
 📖Blog: https://tradeagency.jp
 
