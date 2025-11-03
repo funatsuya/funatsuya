@@ -30,6 +30,28 @@ Other: AWS, Docker, Git, Vite, Wordpress, Shopify, Paypal, Vim,
 
 <br>
 <br>
+
+<h2>My Projects</h2>
+
+<table border="0" cellpadding="10" cellspacing="0" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="left">Awesome Github Profile README Templates Reborn</h3>
+      <p align="left">
+        A fast, interactive viewer for the community-maintained collection of profile READMEs. Built with React, TypeScript, and Vite.
+      </p>
+      <a href="https://awesome-github-profile-readme-templ.vercel.app/" target="_blank" rel="noopener noreferrer">
+        <img src="https://raw.githubusercontent.com/funatsuya/funatsuya/main/images/awesome-github-profile-readme-templates-reborn.png" width="100%" alt="Awesome Github Profile README Templates Reborn"/>
+      </a>
+      <p align="right">
+        <a href="https://awesome-github-profile-readme-templ.vercel.app/" target="_blank" rel="noopener noreferrer">View Live Demo →</a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br>
+<br>
 <h2>Works</h2>
 
 
