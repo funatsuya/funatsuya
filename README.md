@@ -68,10 +68,16 @@ Other: AWS, Docker, Git, Vite, Wordpress, Shopify, Paypal, Vim,
         <a href="https://note.tradeagency.jp" target="_blank" rel="noopener noreferrer">
             <img src="images/tradenote.png" width="100%" alt="Trade Note"/>
         </a>
-        <p align="left" style="margin-top: 10px;">
+        <p align="left" style="margin-top: 10px; line-height: 2;">
+            <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+            <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
             <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
             <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
             <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+            <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+            <img src="https://img.shields.io/badge/AWS_SES-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS SES"/>
+            <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare"/>
+            <img src="https://img.shields.io/badge/Paddle-1E252B?style=for-the-badge" alt="Paddle"/>
         </p>
         <p align="right">
             <a href="https://note.tradeagency.jp" target="_blank" rel="noopener noreferrer">
