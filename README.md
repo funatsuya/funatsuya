@@ -1,3 +1,5 @@
+# README.md
+
 <div align="center">
 <img src="https://user-images.githubusercontent.com/45201545/99141222-83983780-268c-11eb-90eb-ba70d213d088.gif" alt="GitHub Logo" width="150" height="150" />
 
@@ -58,7 +60,25 @@ Other: AWS, Docker, Git, Vite, Wordpress, Shopify, Paypal, Vim,
             </a>
         </p>
     </td>
-    
+    <td width="50%" valign="top">
+        <h3 align="left">Trade Note</h3>
+        <p align="left">
+            A specialized application for managing and analyzing trading records. Developed to streamline workflow and improve performance tracking.
+        </p>
+        <a href="https://note.tradeagency.jp" target="_blank" rel="noopener noreferrer">
+            <img src="images/tradenote.png" width="100%" alt="Trade Note"/>
+        </a>
+        <p align="left" style="margin-top: 10px;">
+            <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
+            <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+            <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+        </p>
+        <p align="right">
+            <a href="https://note.tradeagency.jp" target="_blank" rel="noopener noreferrer">
+            <strong>View Live Demo →</strong>
+            </a>
+        </p>
+    </td>
   </tr>
 </table>
 
